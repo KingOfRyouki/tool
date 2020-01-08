@@ -1,0 +1,9 @@
+bat 檔 :
+@java -jar FileRename.jar
+
+或
+
+Dos 模式(cmd) 輸入 :
+E:
+cd E:\program\src\practice\tool\file_rename
+java -jar FileRename.jar
